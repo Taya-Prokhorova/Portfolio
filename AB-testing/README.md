@@ -1,6 +1,6 @@
 # Проведение А/А/В-тестирования
 
- [ipynb](https://github.com/Taya-Prokhorova/Portfolio/blob/main/Cohort%20Analisys/Prokhorova_P1_portfolio.ipynb)
+ [ipynb](https://github.com/Taya-Prokhorova/Portfolio/blob/main/AB-testing/Prokhorova_P2_Portfolio.ipynb)
 
 ## Описание проекта
 
