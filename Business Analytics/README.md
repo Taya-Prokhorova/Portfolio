@@ -1,6 +1,6 @@
 # Анализ бизнес-показателей
 
- [ipynb](https://github.com/Taya-Prokhorova/Portfolio/blob/main/Cohort%20Analisys/Prokhorova_P1_portfolio.ipynb)
+ [ipynb](https://github.com/Taya-Prokhorova/Portfolio/blob/main/Business%20Analytics/Prokhorova_P3_Portfolio.ipynb)
 
 ## Описание проекта
 
